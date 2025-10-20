@@ -45,6 +45,8 @@ Developed by: RegisterNumber:*/
 **RTL**
 
 **Timing Diagram**
+![boolean expreesion](https://github.com/user-attachments/assets/e9e64689-0bcc-4b45-8194-6306945db684)
+![waveform of boolean expression](https://github.com/user-attachments/assets/8aa035d1-cee9-41d0-b2b1-97177850aa6c)
 
 **Result:**
 
